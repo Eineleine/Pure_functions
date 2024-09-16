@@ -1,7 +1,5 @@
 import { isHealth } from '../health.js';
-//import Character from '../game.js'
 
-//const character = new Character();
 test('should critical', () => {
 
     const name = 'маг';

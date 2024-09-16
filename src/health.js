@@ -1,7 +1,4 @@
-//import Character from './game.js'
-
 let output = '';
-//const character = new Character();
 
 export function isHealth(name, health) {
     
