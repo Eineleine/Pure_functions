@@ -1,4 +1,4 @@
-import { isHealth } from '../health.js';
+import { isHealth } from '../index.js';
 
 test('should critical', () => {
 
